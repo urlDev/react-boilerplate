@@ -3,7 +3,7 @@ font-family: 'Playfair Display', serif;
 font-family: 'Roboto', sans-serif; */
 
 body {
-    background: rgb(226, 226, 226);
+    background: #15202b;
 }
 
 .container__outer {
@@ -28,11 +28,12 @@ svg {
     height: 100px;
 }
 
-h1 {
-    font-family: "Playfair Display", serif;
+#title {
+    font-family: 'Playfair Display', serif;
     font-size: 25px;
-    color: #980b8a;
+    color: white;
     font-weight: 900;
+    margin-bottom: 0;
 }
 
 #border {

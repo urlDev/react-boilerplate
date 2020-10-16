@@ -45,7 +45,7 @@ const App = () => (
           </g>
         </g>
       </svg>
-      <h1>Welcome & Enjoy!</h1>
+      <h1 id="title">Welcome & Enjoy!</h1>
     </div>
   </div>
 );
