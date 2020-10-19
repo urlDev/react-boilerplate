@@ -32,9 +32,11 @@
         "eslint-plugin-jsx-a11y": "^6.3.0",
         "eslint-plugin-react": "^7.20.0",
         "eslint-plugin-react-hooks": "^4.0.0",
+        "file-loader": "^6.1.1",
         "node-sass": "^4.14.1",
         "sass-loader": "^10.0.3",
         "style-loader": "^2.0.0",
+        "url-loader": "^4.1.1",
         "webpack": "^4.44.2",
         "webpack-cli": "^3.3.12",
         "webpack-dev-server": "^3.11.0"
